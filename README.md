@@ -29,6 +29,7 @@ All links are written directly in the HTML. To change one, search for the old UR
 | Instagram | https://www.instagram.com/meras__sy |
 | X | https://x.com/meras_sy |
 | Facebook | https://www.facebook.com/share/1cMWnAMnkt/ |
+| YouTube | https://www.youtube.com/@meras_sy |
 | Telegram | https://t.me/meras_sy |
 | Email | meras.syria@gmail.com |
 | Phone | +963 941 878 610 |
